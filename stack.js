@@ -1,5 +1,5 @@
 /*
-    Data Structure with Javascript: STACK
+    Data Structures with Javascript: STACK
 */
 
 // -- What is Stack?
